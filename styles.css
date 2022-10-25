@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.contenedor{
+    margin: 200px auto;
+    width: 800px;
+    height: 800px;
+    border:1px solid gray ;
+    position: relative;
+    border-radius: 50%;
+    
+}
+/* .lucida{
+    font-size:200px ;
+    font-family: monospace, 'Times New Roman', Times, serif;
+} */
+.roboto{
+    font-size:4500% ;
+    font-family: 'Rubik', sans-serif;
+    text-align: center;
+    color: blue;
+}
+/* .monserrat{
+    font-size:200px ;
+    font-family: 'Montserrat';
+    color: aqua;
+} */
+/* .Quicksand{
+    font-size:200px ;
+    font-family: 'Quicksand';
+} */
+.deg01{
+    background-color: white;
+   text-align: center;
+   position: absolute;
+   top: -7%;
+   left: 12%;
+}
+.degr01{
+background: #ccc;
+/* background: linear-gradient(#eff1ff, #000); */
+background: linear-gradient(rgba(72, 152, 213, 0.854) , rgba(0, 0, 0, 0.837) );
+font-family: system-ui;
+font-size: 4000%;
+
+-webkit-text-fill-color: 
+transparent;
+-webkit-background-clip: text;
+
+}
